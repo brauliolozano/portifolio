@@ -5,7 +5,7 @@
     box-sizing: border-box;
 }
 :root {
-    --hue: 190;
+    --hue: 206;
 
     --primary-color:  hsl(var(--hue), 100%, 26%);
     --headline: hsl(210, 11%, 15%);
